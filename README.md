@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
-<p><em>Software Enginner at <a href="">Palcort Tech</a><img src="https://media.giphy.com/media/RlrmbPf91YOYds6nzW/giphy.gif" width="30"></br>Developer Consultant at <a href="https://trespimedios.co/">Tres Pi Medios</a><img src="https://media.giphy.com/media/H3kC4ZqqH1XJoK1sCZ/giphy.gif" width="30"> 
+</br>Tech Lead at <a href="https://trespimedios.co/">Tres Pi Medios</a><img src="https://media.giphy.com/media/H3kC4ZqqH1XJoK1sCZ/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: paintoxic](https://img.shields.io/twitter/follow/Paintox1c?style=social)](https://twitter.com/paintox1c)
