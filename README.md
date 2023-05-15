@@ -14,9 +14,9 @@
 
 ```javascript
 const paintoxic = {
-  code: ["Javascript", "Typescript", "Python", "Go"],
-  databases: ["Redis", "Mongo", "Postgres", "MSsql"],
-  tools: ["React", "Node", "Docker", "k8s"],
+  code: ["Python", "Javascript", "Typescript", "Go"],
+  databases: ["Redis", "Mongo", "Postgres",],
+  tools: ["Docker", "k8s", "Ansible", "Kaniko", "Jinja", "Terraform"],
   frameworks : ["express"],
   misc: ["RabbitMQ", "Nginx"],
   os : ["Linux <3"],
