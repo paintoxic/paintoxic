@@ -1,0 +1,36 @@
+name: Update Raider.io fun fact
+
+# Characters live in .github/raiderio-characters.json — add/remove them there.
+
+on:
+  schedule:
+    - cron: '0 15 1 * *' # día 1 de cada mes, 10:00 Colombia (UTC-5) = 15:00 UTC
+  workflow_dispatch: # permite correrlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      - name: Refresh Raider.io cards
+        run: node .github/scripts/update-raiderio.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh Raider.io fun fact"
+            git push
+          fi
