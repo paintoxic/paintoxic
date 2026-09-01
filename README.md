@@ -68,13 +68,13 @@ Pushing Mythic+ keys 🗝️
   </tr>
   <tr>
     <td>
-      <a href="https://raider.io/characters/us/quelthalas/Alhen%C3%A1"><img src="https://render.worldofwarcraft.com/us/character/quelthalas/131/155335043-avatar.jpg?alt=/wow/static/images/2d/avatar/1-1.jpg" width="90" alt="Alhená avatar" /></a>
+      <a href="https://raider.io/characters/us/quelthalas/Belathil"><img src="https://render.worldofwarcraft.com/us/character/quelthalas/131/155335043-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg" width="90" alt="Belathil avatar" /></a>
     </td>
     <td>
-      <b>Alhená</b> — Human <b>Mistweaver Monk</b> @ Quel'Thalas (US)<br/><br/>
-      <a href="https://raider.io/characters/us/quelthalas/Alhen%C3%A1">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraider.io%2Fapi%2Fv1%2Fcharacters%2Fprofile%3Fregion%3Dus%26realm%3Dquelthalas%26name%3DAlhen%25C3%25A1%26fields%3Dgear%2Cmythic_plus_scores_by_season%3Acurrent&query=%24.mythic_plus_scores_by_season%5B0%5D.scores.all&label=Mythic%2B%20Score&color=ff8000&style=flat-square&logo=battledotnet&logoColor=white" alt="Mythic+ Score" />
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraider.io%2Fapi%2Fv1%2Fcharacters%2Fprofile%3Fregion%3Dus%26realm%3Dquelthalas%26name%3DAlhen%25C3%25A1%26fields%3Dgear%2Cmythic_plus_scores_by_season%3Acurrent&query=%24.gear.item_level_equipped&label=Item%20Level&color=a335ee&style=flat-square&logo=battledotnet&logoColor=white" alt="Item Level" />
+      <b>Belathil</b> — Night Elf <b>Mistweaver Monk</b> @ Quel'Thalas (US)<br/><br/>
+      <a href="https://raider.io/characters/us/quelthalas/Belathil">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraider.io%2Fapi%2Fv1%2Fcharacters%2Fprofile%3Fregion%3Dus%26realm%3Dquelthalas%26name%3DBelathil%26fields%3Dgear%2Cmythic_plus_scores_by_season%3Acurrent&query=%24.mythic_plus_scores_by_season%5B0%5D.scores.all&label=Mythic%2B%20Score&color=ff8000&style=flat-square&logo=battledotnet&logoColor=white" alt="Mythic+ Score" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraider.io%2Fapi%2Fv1%2Fcharacters%2Fprofile%3Fregion%3Dus%26realm%3Dquelthalas%26name%3DBelathil%26fields%3Dgear%2Cmythic_plus_scores_by_season%3Acurrent&query=%24.gear.item_level_equipped&label=Item%20Level&color=a335ee&style=flat-square&logo=battledotnet&logoColor=white" alt="Item Level" />
       </a>
     </td>
   </tr>
